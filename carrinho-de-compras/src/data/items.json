@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Engenharia de Software",
+        "price": 2680,
+        "imgUrl": "imgs/1.png"
+    },
+    {
+        "id": 2,
+        "name": "MBA-Segurança da Informação",
+        "price": 2200,
+        "imgUrl": "imgs/2.png"
+    },
+    {
+        "id": 3,
+        "name": "FullStack",
+        "price": 3600,
+        "imgUrl": "imgs/3.png"
+    },
+    {
+        "id": 4,
+        "name": "MBA-Segurança da Informação",
+        "price": 2200,
+        "imgUrl": "imgs/2.png"
+    },
+    {
+        "id": 5,
+        "name": "FullStack",
+        "price": 3600,
+        "imgUrl": "imgs/3.png"
+    },
+    {
+        "id": 6,
+        "name": "FullStack",
+        "price": 3600,
+        "imgUrl": "imgs/3.png"
+    }
+]
